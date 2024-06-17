@@ -1,16 +1,18 @@
-## Hi there 👋
+# Gerson J. Ferreira
 
-<!--
-**gersonjferreira/gersonjferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics professor at [Instituto de Física, Universidade Federal de Uberlândia](https://www.infis.ufu.br/).
 
-Here are some ideas to get you started:
+I'm planning to move my codes from gitlab to github. But this will take time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now, you can reach me at: https://subgnano.gitlab.io/
+
+## Research interests
+
+- spintronics and spin related phenomena
+- spin dynamics, spin drift and diffusion
+- topological insulators, graphene, and novel materials
+- group theory applied to solid state physics
+- non-equilibrium Green’s function, transport properties
+- computational physics, neural networks
+
+<img src='http://www.phdcomics.com/comics/archive/phd110714s.gif' width=500>
